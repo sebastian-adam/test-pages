@@ -1,0 +1,42 @@
+
+body{
+  background-image: url("../webpage/img/shimmy.gif");
+  background-repeat: repeat;
+  margin: 0;
+
+}
+
+img{
+  display: inline-block;
+  width: 40vw;
+
+  background: grey;
+}
+
+#nav-bar  {
+  background: black;
+  width: 100vw;
+  height: 100px;
+
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+}
+
+nav{
+ position: relative;
+ z-index: 2;
+ text-align: center;
+ margin-top: 50px
+}
+
+h1 {
+  color: white;
+  display: inline;
+  margin: 5vw;
+
+}
+
+a{
+display: inline;
+}
