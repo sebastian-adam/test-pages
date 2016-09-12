@@ -1,16 +1,22 @@
-# First Test Page
+# Me and My Friend's Favorite Places
 
+HTML app for Epicodus 05.24.2016
+### _By Sebastian Adam Prokuski_
 
-#### _Epicodus day 2_
+***
 
-# **Caleb Stokka**
+## Description
+This app highlights the differences between my favorite places and my friend Caleb's favorite places with external links.
 
-## Practicing Markdown Using:
+## Installation
 
-* Italics
+* `$ git clone https://github.com/sprokusk/test-pages.git`
+* `$ cd test-pages`
+* `$ open index.html`
 
-* Bold
+## Technologies
+* HTML
+* CSS
 
-* Lists
-
-[![wiggle wiggle wiggle](../webpage/img/shimmy.gif)](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/homework-readmes)
+## Legal
+Copyright (c) 2016 **_{Sebastian Prokuski}_**
